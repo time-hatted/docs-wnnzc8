@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-jwegza.hsteamid.com/sitemap.xml
